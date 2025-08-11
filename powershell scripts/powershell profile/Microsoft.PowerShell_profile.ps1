@@ -24,11 +24,14 @@ function Invoke-ProfileReload {
 }
 
 # Import custom modules
-Import-Module "$env:USERPROFILE\Documents\mashumelo\powershell scripts\powershell profile\modules\modules.psm1" -Force
+Import-Module "$env:USERPROFILE\Documents\PowerShell\modules\modules.psm1" -Force
+
+
+$themePath = "$env:USERPROFILE\scoop\apps\oh-my-posh\26.19.0\themes"
 
 # oh-my-posh
 $OutputEncoding = [System.Console]::OutputEncoding = [System.Console]::InputEncoding = [System.Text.Encoding]::UTF8
-oh-my-posh init pwsh --config "${env:PROGRAMFILES(x86)}\oh-my-posh\themes\dracula.omp.json" | Invoke-Expression
+oh-my-posh init pwsh --config "$themePath\dracula.omp.json" | Invoke-Expression
 
 # komorebi environmental variable
 $Env:KOMOREBI_CONFIG_HOME = "$env:USERPROFILE\.config\komorebi"
