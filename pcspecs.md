@@ -1,5 +1,5 @@
 ## Current PC Specs
-OS: Windows 11 Home 10.0.22631 Build 22631\
+OS: CachyOS\
 Motherboard: B550M PRO-VDH WIFI\
 CPU: AMD Ryzen 5 5600X x 6 Cores\
 GPU: Nvidia GeForce RTX 3060\
