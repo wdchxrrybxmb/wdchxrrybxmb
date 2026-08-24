@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Waylon</h1>
-<h3 align="center">A user of Nix, flakes, and the CLI.</h3>
+<h3 align="center">A user of Linux, AI Agents, and the CLI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wdchxrrybxmb&label=Profile%20views&color=0e75b6&style=flat" alt="witczdok" /> </p>
 
-- 🔭 I’m currently working on [my Nix flake](https://github.com/wdchxrrybxmb/nix-flake)
+- 🔭 I’m currently working on [my Repository](https://github.com/witczdok)
 
-- 🌱 I’m currently learning **Nix**
+- 🌱 I’m currently learning **many different projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/witczdok](https://github.com/witczdok)
 
-- 💬 Ask me about **NixOS, Arch Linux, and bash scripting**
+- 💬 Ask me about **Arch Linux, C++ and bash scripting**
 
 - 📫 How to reach me **waylondn@proton.me**
 
