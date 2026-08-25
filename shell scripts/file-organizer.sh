@@ -11,6 +11,8 @@ fi
 
 # Declare extension → folder mapping
 declare -A extensions=(
+    ["*.tar"]="Executables"
+    ["*.tar.gz"]="Executables"
     ["*.exe"]="Executables"
     ["*.bat"]="Executables"
     ["*.WAD"]="WADs"
